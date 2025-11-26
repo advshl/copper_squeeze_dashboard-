@@ -29,6 +29,6 @@ monitor.ind.compute_percentiles_from_raw({
 ```
 → 220.2 / 325 → High squeeze risk
 
-See [methodology.md](methodology.md) • Open [demo_notebook.ipynb](demo_notebook.ipynb) to run live
+See [methodology.md](methodology.md) • Open [Dashboard_Demo.ipynb](Dashboard_Demo.ipynb) to run live
 </br>All data fetched live from LME, CME, CFTC — no API keys needed.  
 </br>Offline version (cached CSVs) in `/data` folder.
